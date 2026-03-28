@@ -1,2 +1,2 @@
 # PoseDec
-PoseDec: Analytic Pose Decoupling in Robotics
+PoseDec: Analytic Pose Decoupling in SLAM
