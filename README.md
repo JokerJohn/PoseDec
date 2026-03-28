@@ -38,7 +38,7 @@ catkin_make # or catkin build / colcon build
 
 ### Point-level Observability analysis
 
-![image-20260328160555622](./README/image-20260328160555622.png)
+![image-20260328162439850](./README/image-20260328162439850.png)
 
 ### ICP Robustness vs different perturbation of initial pose
 
