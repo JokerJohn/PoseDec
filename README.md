@@ -2,7 +2,7 @@
 
 **PoseDec** introduces a unified theoretical framework for analytic pose decoupling in Simultaneous Localization and Mapping (SLAM). It formulates environmental information geometric constraints that are entirely **sensor-agnostic** and universally applicable to **any pose parameterization method**.
 
-By abstracting the geometric constraints from the sensor hardware and the specific mathematical representation of the pose, PoseDec offers a robust mathematical foundation that easily plugs into a wide variety of downstream SLAM and computer vision tasks.
+By abstracting the geometric constraints from the sensor hardware and the specific mathematical representation of the pose, PoseDec offers a robust mathematical foundation that easily plugs into a wide variety of downstream SLAM and computer vision tasks. We can take our previous work [DCReg](https://github.com/JokerJohn/DCReg) as just an application for ICP in degenerate environment. **In this work, we aim to generalize this analytical approach to any scenario where geometric constraints can be explicitly modeled**.
 
 ## Key Features
 
